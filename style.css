@@ -12,11 +12,12 @@
 }
 
 .cabecalho-imagem{
-width: 5%;
+width: 10%;
 }
+#imgpos {position: absolute;left: 1300px; top: 10px;}
 .cabecalho-imagem2{width: 5%;}
 
 .cabecalho-lista-item {
-    display: inline-block;margin: 0 16px;font-size: 32px;
+    display: inline-block;margin: 0 32px;font-size: 32px;
 }
     
